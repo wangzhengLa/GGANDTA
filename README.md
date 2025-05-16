@@ -23,7 +23,7 @@ conda deactivate
 #### 2. clone GGANDTA
 - After creating and activating the GGANDTA virtual environment, download GGANDTA from github:
 ```bash
-git clone https://github.com/wz/GGANDTA.git
+git clone https://github.com/wangzhengLa/GGANDTA.git
 cd GGANDTA
 ```
 #### 3. Install
